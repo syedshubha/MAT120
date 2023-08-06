@@ -2,7 +2,6 @@
 For BRAC University Students
 
 Course: MAT 120 Lab
-Topic covered:
 1. Introduction to python
 2. Introduction to Numpy, Matplotlib, Sympy
 3. Finding maxima-minima of a function using Sympy
