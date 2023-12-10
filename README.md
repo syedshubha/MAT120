@@ -1,4 +1,4 @@
-# 1MAT120
+# MAT120
 For BRAC University Students
 
 Course: MAT 120 Lab
